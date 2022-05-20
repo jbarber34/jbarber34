@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center">Hi, I'm James 👨‍💻</h1>
-<h3 align="center">A data analyst working on becoming a web developer! Let me know how I'm doing!</h3>
+<h3 align="center">A data analyst working on becoming a web developer. Let me know how I'm doing!</h3>
 
 <br />
 
@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **JavaScript and React**
 
-- 💬 Ask me about **RStudio, SSMS, Python**
+- 💬 Ask me about **RStudio, SSMS, Python, Baseball Biomechanical Analysis**
 
-- 📫 How to reach me **jpbarber34@gmail.com**
+- 📫 How to reach me **jpbarber34@gmail.com** or via the links in the **Connect** section
 
 - ⚾️ **Baseball Enthusiast**
 
