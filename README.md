@@ -2,14 +2,14 @@
 **jbarber34/jbarber34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hi, I'm James 👨‍💻</h1>
+<h1 align="center">Hi, I'm James 👨🏼‍💻</h1>
 <h3 align="center">A data analyst working on becoming a web developer. Let me know how I'm doing!</h3>
 
 <br />
 
-- 🔭 I’m currently working on becoming a [Full Stack Developer](https://github.com/jbarber34/WebDev-Bootcamp)
+- 👨🏼‍💻 I’m currently working on becoming a [Full Stack Developer](https://github.com/jbarber34/WebDev-Bootcamp)
 
-- 👨‍💻 I love to **learn new things**
+- 📚 I love to **learn new things**
 
 - 🌱 I’m currently learning **JavaScript and React**
 
