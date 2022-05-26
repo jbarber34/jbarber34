@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center">Hi, I'm James 👨🏼‍💻</h1>
-<h3 align="center">A data analyst working on becoming a web developer. Let me know how I'm doing!</h3>
+<h3 align="center">A data analyst working towards becoming a web developer. Let me know how I'm doing!</h3>
 
 <br />
 
