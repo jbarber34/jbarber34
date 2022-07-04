@@ -15,6 +15,8 @@
 
 - 💬 Ask me about **RStudio, SSMS, Python, Baseball Biomechanical Analysis**
 
+- 👾 Check out my **Hacker Dark** VSCode Theme for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=HackerDark.hacker-dark)
+
 - 📫 How to reach me **jpbarber34@gmail.com** or via the links in the **Connect** section
 
 - ⚾️ **Baseball Enthusiast**
