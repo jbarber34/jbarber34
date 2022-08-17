@@ -9,7 +9,7 @@
 
 - 👨🏼‍💻 I’m currently working on becoming a [Full Stack Developer](https://github.com/jbarber34/WebDev-Bootcamp)
 
-- 📚 I love to **learn new things**, I am currently learning **TypeScript**
+- 📚 I love to **learn new things**, I am currently learning **TypeScript** and **NextJS**
 
 - 🌱 I’m currently refining my skills in **JavaScript, React, and Python** 
 
