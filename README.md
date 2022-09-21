@@ -11,7 +11,7 @@
 
 - 📚 I love to **learn new things**, I am currently learning **TypeScript** and **NextJS**
 
-- 🌱 I’m currently refining my skills in **JavaScript, React, and Python** 
+- 🌱 I’m currently refining my skills in **JavaScript/TypeScript, React, and Python** 
 
 - 💬 Ask me about **RStudio, SSMS, Python, Baseball Biomechanical Analysis**
 
