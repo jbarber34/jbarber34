@@ -17,7 +17,7 @@
 
 - 👾 Check out my **Hacker Dark** VSCode Theme for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=HackerDark.hacker-dark)
 
-- 📫 Reach me at **jpbarber34@gmail.com** or via the links in the **Connect** section
+- 📫 Reach me at **jpbarber34@gmail.com** or via the links in the **Connect** section below
 
 - ⚾️ **Baseball Enthusiast**
 
