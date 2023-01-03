@@ -9,9 +9,9 @@
 
 - 👨🏼‍💻 I’m currently working on becoming a [Full Stack Developer](https://github.com/jbarber34/WebDev-Bootcamp)
 
-- 📚 I love to **learn new things**, I am currently learning **TypeScript** and **NextJS**
+- 📚 I love to **learn new things**, I am currently learning **.NET/C#** and **Angular**
 
-- 🌱 I’m currently refining my skills in **JavaScript, React, and Python** 
+- 🌱 I’m currently refining my skills in **JavaScript/TypeScript and React/NextJS** 
 
 - 💬 Ask me about **RStudio, SSMS, Python, Baseball Biomechanical Analysis**
 
