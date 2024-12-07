@@ -3,17 +3,17 @@
 -->
 
 <h1 align="center">Hi, I'm James 👨🏼‍💻</h1>
-<h3 align="center">A data analyst working towards becoming a web developer focusing on web apps! Let me know how I'm doing!</h3>
+<h3 align="center">Developer focused on creating web applications, with a passion for continuous learning and growth in the field.</h3>
 
 <br />
 
-- 👨🏼‍💻 I’m currently working on becoming a [Full Stack Developer](https://github.com/jbarber34/WebDev-Bootcamp)
+- 👨🏼‍💻 I am actively expanding my skills as a [Full Stack Developer](https://github.com/jbarber34/WebDev-Bootcamp)
 
-- 📚 I love to **learn new things**, I am currently learning **.NET/C#** and **Angular**
+- 📚 I love to **learn new things**, I am currently learning **Unreal Engine** and **C++**
 
-- 🌱 I’m currently refining my skills in **JavaScript/TypeScript and React/NextJS** 
+- 🌱 Continuously honing my expertise in **JavaScript/TypeScript**, **React/Next.js**, **.NET/C#**, and **Angular** to build robust and scalable web applications.
 
-- 💬 Ask me about **RStudio, SSMS, Python, Baseball Biomechanical Analysis**
+- 💬 Ask me about **RStudio, SSMS, Python, Baseball Biomechanical Analysis, or VR/AR Gaming/Development**
 
 - 👾 Check out my **Hacker Dark** VSCode Theme for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=HackerDark.hacker-dark)
 
@@ -34,6 +34,9 @@
 <a title="Angular" href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a>
 <a title=".NET" href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/> </a>
 <a title="C#" href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+<a title="C++" href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a>
+<a title="Unreal Engine" href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" alt="unrealengine" width="40" height="40"/> </a>
+<a title="Unity" href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> </a>
 <a title="ExpressJS" href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a title="Python" href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a title="Pandas" href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
